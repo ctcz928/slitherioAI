@@ -1,5 +1,5 @@
 # SlitherIO-AI
-
+By Peter Leng
 ## Installation Guide
 To run this program we need to install OpenAI gym at this [link](https://github.com/openai/gym) and OpenAI universe at this [link](https://github.com/openai/universe). We are using Python 3.5, but Python 2.7 should also work for this project. Just make sure to use `pip3` for Python 3.5 and `pip` for Python 2.7.
 
